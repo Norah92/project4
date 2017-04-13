@@ -1,4 +1,7 @@
 # project4
+## How to run the application locally:
+Open index.html then run it in any browser.
+
 ## Changes I made:
 
 1. Replaced "querySelector" by "getElementById" in changeSliderLabel function.
