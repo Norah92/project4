@@ -2,7 +2,11 @@
 ## How to run the application locally:
 Open index.html then run it in any browser.
 
-## Changes I made:
+## Changes I made in index.html:
+1. Inlined css.
+2. Added "async" attribute to the external javascript file. 
+
+## Changes I made in main.ja:
 
 1. Replaced "querySelector" by "getElementById" in changeSliderLabel function.
 2. Removed determineDx function.
